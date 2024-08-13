@@ -1,8 +1,10 @@
-import Card from "./Card";
+import Card from "../card/Card";
+import "./process.module.css";
 
 function Process() {
   return (
     <section className="process grid">
+      <h1 className="process_title">How it works.</h1>
       <Card />
     </section>
   );

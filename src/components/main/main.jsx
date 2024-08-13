@@ -1,5 +1,6 @@
-import Hero from "./Hero";
-import Process from "./Process";
+import Hero from "../hero/Hero";
+import Process from "../process/Process";
+import "./main.module.css";
 
 function main() {
   return (
