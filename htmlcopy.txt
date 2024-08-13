@@ -1,0 +1,67 @@
+<header class="header_wrapper">
+    <h1 class="header_title">🔥 Fireplace Palace</h1>
+</header>
+<main class="main_wrapper">
+    <section class="hero">
+        <figure class="hero_body flex">
+            <img class="hero_img" src="hero-mobile.png" />
+            <figcaption class="hero_caption">
+                <div class="hero_caption_box flex">
+                    <h1 class="hero_caption_title">
+                        Discover the Perfect Fireplace ...
+                    </h1>
+                    <div class="hero_caption_subtitle">
+                        <span>Book consultation:</span>
+                        <span>0121 345 6789</span>
+                    </div>
+                </div>
+            </figcaption>
+        </figure>
+    </section>
+    <section class="process grid">
+        <h1 class="process_title">How it works.</h1>
+        <div class="process_body flex">
+            <figure class="card">
+                <img class="card_img" src="/images/how-it-works-1.png" alt="image" />
+                <figcaption class="card_caption">
+                    <h2 class="card_caption_title">Give us a call...</h2>
+                    <p class="card_caption_desc">
+                        Call us and book in a "Design Consulation" on a date
+                        and time to suit you.
+                    </p>
+                </figcaption>
+            </figure>
+            <figure class="card">
+                <img class="card_img" src="/images/how-it-works-2.png" alt="image" />
+                <figcaption class="card_caption">
+                    <h2 class="card_caption_title">We come to you...</h2>
+                    <p class="card_caption_desc">We come to your home to do an assessment of the space and to your style
+                        preference.</p>
+                </figcaption>
+            </figure>
+            <figure class="card">
+                <img class="card_img" src="/images/how-it-works-3.png" alt="image" />
+                <figcaption class="card_caption">
+                    <h2 class="card_caption_title">We recommend...</h2>
+                    <p class="card_caption_desc">We send you a bespoke set of fireplace recommendations.</p>
+                </figcaption>
+            </figure>
+        </div>
+    </section>
+</main>
+<footer class="footer_wrapper grid center">
+    <div class="social flex">
+        <span class="social_tag">Find us on:</span>
+        <span class="social_links flex">
+            <span>Facebook</span>
+            <span>|</span>
+            <span>Instagram</span>
+            <span>|</span>
+            <span>TikTok</span>
+        </span>
+    </div>
+    <div class="notice flex">
+        <span>© Fireplace Palace</span>
+        <span>info@fireplace.co.uk</span>
+    </div>
+</footer>
